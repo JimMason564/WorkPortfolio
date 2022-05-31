@@ -30,3 +30,7 @@ body, html {
     display: inline;
     padding: 5px;
 }
+
+h2 {
+    padding-top: 30px;
+}
